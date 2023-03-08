@@ -1,0 +1,23 @@
+h1 {
+  text-shadow: 10px 10px blueviolet;
+}
+#queso {
+  background-color: yellow;
+}
+#sapo {
+  color: green;
+}
+#dedo,
+#agua {
+  color: white;
+  background-color: black;
+}
+#lapiz,
+#celular {
+  color: blue;
+  text-transform: uppercase;
+}
+#kilos {
+  font-size: 3cm;
+  text-shadow: 10px 10px pink;
+}
